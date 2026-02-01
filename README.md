@@ -183,7 +183,7 @@ Observability (including Evaluations) is part of GenAIOps; use it during test an
 
 **References:**
 - [Deploy Azure OpenAI models with Azure API Management](https://learn.microsoft.com/en-us/azure/api-management/api-management-authenticate-authorize-azure-openai)
-- [Monitoring and alerting for Azure OpenAI](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/monitoring)
+- [Azure OpenAI Service REST API error handling](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#error-codes)
 
 ## Acknowledgements
 Thank you Prafulla (https://github.com/prwani) for inputs 
